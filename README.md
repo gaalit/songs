@@ -1,4 +1,4 @@
-# App to get familiarized with Redux
+# App to get familiarized with React-Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
